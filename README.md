@@ -1,5 +1,5 @@
 # RPi-Proto-HAT
-Prototyping Area HAT (Hardware Attached on Top) for Raspberry Pi B+.
+Prototyping Area HAT (Hardware Attached on Top) for Raspberry Pi Model A+ and B+.
 
 Shop: 
 [RPi-Proto-HAT](http://www.watterott.com/en/RPi-Proto-HAT) ([Amazon](http://www.amazon.de/RPi-Proto-HAT/dp/B00NBKXQPW)), 
