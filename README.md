@@ -5,7 +5,7 @@ Shop:
 [RPi-Proto-HAT](http://www.watterott.com/en/RPi-Proto-HAT) ([Amazon](http://www.amazon.de/RPi-Proto-HAT/dp/B00NBKXQPW)), 
 [RPi-Proto-HAT with ID-EEPROM](http://www.watterott.com/en/RPi-Proto-HAT-ID-EEPROM)
 
-[![RPi-Proto-HAT](https://raw.github.com/watterott/RPi-Proto-HAT/master/img/rpi-proto-hat.jpg)](http://www.watterott.com/en/RPi-Proto-HAT)
+[![RPi-Proto-HAT](https://raw.github.com/watterott/RPi-Proto-HAT/master/pcb/RPi-Proto-HAT_v10.jpg)](http://www.watterott.com/en/RPi-Proto-HAT)
 
 
 ## Features
