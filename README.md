@@ -19,4 +19,4 @@ Shop:
 
 
 ## Software
-* [Flash/Update EEPROM](https://github.com/watterott/RPi-Proto-HAT/blob/master/docu/EEPROM.md)
+* [Flash/Update EEPROM](https://github.com/joabakk/RPi-Proto-HAT/blob/master/docu/EEPROM.md)
