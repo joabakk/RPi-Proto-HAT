@@ -13,7 +13,7 @@ Before the update the **WP** jumper next to the EEPROM has to be closed.
 
 * Generate EEPROM data:
     ```
-    $ wget https://github.com/watterott/RPi-Proto-HAT/raw/master/docu/rpi-proto-hat.txt
+    $ wget https://github.com/joabakk/RPi-Proto-HAT/raw/master/docu/rpi-proto-hat.txt
     $ ./eepmake rpi-proto-hat.txt rpi-proto-hat.eep
     ```
 
