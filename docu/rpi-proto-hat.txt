@@ -25,10 +25,10 @@ product_id 0x0002
 product_ver 0x0001
 
 # ASCII vendor string  (max 255 characters)
-vendor "Watterott electronic"
+vendor "Heiamoss industries"
 
 # ASCII product string (max 255 characters)
-product "RPi-Proto-HAT"
+product "RPi-RTC&Shutdown"
 
 
 ########################################################################
@@ -87,4 +87,4 @@ back_power 0
 #setgpio  24    INPUT     DEFAULT
 #setgpio  25    INPUT     DEFAULT
 #setgpio  26    INPUT     DEFAULT
-#setgpio  27    INPUT     DEFAULT
+setgpio  27    INPUT     UP
