@@ -16,7 +16,7 @@
 
 # 128 bit UUID. If left at zero eepmake tool will auto-generate
 # RFC 4122 compliant UUID
-product_uuid 0
+product_uuid 5ab4761c-281a-4406-9ce9-765fc7b0655e
 
 # 16 bit product id
 product_id 0x0002
