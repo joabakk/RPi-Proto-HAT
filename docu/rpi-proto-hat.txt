@@ -87,4 +87,4 @@ back_power 0
 #setgpio  24    INPUT     DEFAULT
 #setgpio  25    INPUT     DEFAULT
 #setgpio  26    INPUT     DEFAULT
-setgpio  27    INPUT     UP
+setgpio  27    INPUT     UP #only for crude identification of hat, not currently in use
